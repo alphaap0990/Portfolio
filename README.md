@@ -1,5 +1,7 @@
 # Anvesh Pavuluri: Portfolio
 
+[![Live portfolio site](https://img.shields.io/badge/-Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-chi-pink-99.vercel.app/)
+
 Personal portfolio for an AI/ML engineer. Next.js (App Router) · React 19 · TypeScript · Tailwind CSS v4 · Framer Motion (`LazyMotion`, ~small feature bundle).
 Every page is statically generated; the only client-side network calls are the optional GitHub widgets.
 
