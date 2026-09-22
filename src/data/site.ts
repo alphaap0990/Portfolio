@@ -37,7 +37,7 @@ export const site = {
   ],
 
   // Public URL of the deployed site, e.g. "https://anveshpavuluri.dev"
-  url: "[INSERT PORTFOLIO URL]",
+  url: "https://portfolio-chi-pink-99.vercel.app/",
   email: "anveshp1976@gmail.com",
 
   links: {
