@@ -44,7 +44,7 @@ export const site = {
     linkedin: "https://www.linkedin.com/in/anveshp0990",
     github: "https://github.com/alphaap0990",
     // Tip: drop your PDF in /public (e.g. public/resume.pdf) and set this to "/resume.pdf"
-    resume: "[INSERT RESUME PDF URL]",
+    resume: "https://drive.google.com/file/d/1E6JUdMMNZVW4G006018pE5nBk4BoRj_f/view?usp=sharing",
   },
 
   // Used by the GitHub section (live data).
